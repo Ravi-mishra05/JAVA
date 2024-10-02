@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BasicJava/BasicJava.iml" filepath="$PROJECT_DIR$/BasicJava/BasicJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JAVA_DSA/JAVA_DSA.iml" filepath="$PROJECT_DIR$/JAVA_DSA/JAVA_DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LearningJAVA.iml" filepath="$PROJECT_DIR$/.idea/LearningJAVA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOPsInJava/OOPsInJava.iml" filepath="$PROJECT_DIR$/OOPsInJava/OOPsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oops/Oops.iml" filepath="$PROJECT_DIR$/Oops/Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
     </modules>
   </component>
 </project>
