@@ -9,11 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/07SpringBoot/07SpringBoot.iml" filepath="$PROJECT_DIR$/07SpringBoot/07SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/08SpringJDBC/08SpringJDBC.iml" filepath="$PROJECT_DIR$/08SpringJDBC/08SpringJDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/09SpringBootWeb/09SpringBootWeb.iml" filepath="$PROJECT_DIR$/09SpringBootWeb/09SpringBootWeb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/CoreJava.iml" filepath="$PROJECT_DIR$/CoreJava/CoreJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LearningJAVA.iml" filepath="$PROJECT_DIR$/.idea/LearningJAVA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Oops/Oops.iml" filepath="$PROJECT_DIR$/Oops/Oops.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModuleSample/src/main/main.iml" filepath="$PROJECT_DIR$/ModuleSample/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModuleSample/src/test/test.iml" filepath="$PROJECT_DIR$/ModuleSample/src/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/testtest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/testtest.main.iml" />
